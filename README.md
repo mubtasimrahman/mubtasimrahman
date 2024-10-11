@@ -77,7 +77,7 @@ I’m always looking for **interesting projects** or **collaborations** that pus
 Feel free to **reach out** if you'd like to work on something together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubtasimrahman)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white)]([https://github.com/yourgithub](https://github.com/mubtasimrahman)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white)](https://github.com/mubtasimrahman)
 
 
 ---
