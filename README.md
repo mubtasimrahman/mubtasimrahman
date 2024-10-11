@@ -29,14 +29,14 @@ Working with an international marketing agency, I developed their first flagship
 - **Challenge**: Balancing highly custom designs with scalability. Each pixel and animation went through multiple iterations to get it just right. 
 - **Learning**: The power of continuous integration when working with design feedback loops and the importance of **WAI accessibility standards**.
 
-### **💰 [ShareWize](#) - Expense Sharing App (Capstone Project, 2023-2024)**
+### **💰 [ShareWize](https://github.com/mubtasimrahman/Capstone-ShareWize) - Expense Sharing App (Capstone Project, 2023-2024)**
 Part of a four-member team building **ShareWize**, an app to manage and track group expenses. The project was a deep dive into the **full stack** (Node.js, React, Redux), but more than that, it was an exercise in **team collaboration** and **agile development**.
 
 - **Highlight**: Implementing **Google OAuth 2.0** for authentication and using **AWS RDS** to manage financial data securely.
 - **Challenge**: Making sure the app was **intuitive** for non-tech-savvy users. We refined the UX through **user testing** and iterations.
 - **Learning**: The importance of **communication** within teams—regular stand-ups and code reviews kept us on track and aligned.
 
-### **🎮 Game Galaxy - E-commerce for Games (2023)**
+### **🎮 [Game Galaxy](https://mubtasimrahman.github.io/Game-Galaxy/) - E-commerce for Games (2023)**
 An e-commerce platform for game lovers. **Game Galaxy** aggregates prices and details from millions of online games, making it easier for users to compare and purchase. 
 
 - **Highlight**: **API Integration** with 3 databases, parsing massive amounts of JSON data to deliver real-time results.
@@ -76,8 +76,9 @@ I’m always looking for **interesting projects** or **collaborations** that pus
 
 Feel free to **reach out** if you'd like to work on something together.
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white)](https://github.com/yourgithub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubtasimrahman)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white)]([https://github.com/yourgithub](https://github.com/mubtasimrahman)
+
 
 ---
 
