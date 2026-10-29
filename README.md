@@ -1,83 +1,95 @@
-# Mubtasim Rahman 🚀
+# Hi, I'm Mubtasim 👋
 
-*Full Stack Developer | Problem Solver | Tech Enthusiast*
+**Senior Developer Support Engineer at [Shopify](https://www.shopify.com) · Full-stack TypeScript developer**
 
-Hey there! 👋 I'm Mubtasim—a full-stack developer, always on the hunt for exciting challenges that push the boundaries of my skills. I thrive on building things that **work well, look great**, and solve real problems. From backend architecture to crafting seamless user experiences, my goal is to turn ideas into reality, and I'm always **learning something new** along the way.
+I debug revenue-critical issues in Shopify checkout, GraphQL APIs and OAuth for app developers and Shopify Plus merchants, then trace each one to a root cause the owning team can fix. Before Shopify, I built and shipped full-stack web apps with React, TypeScript and Node.js.
 
----
+## What I work on
 
-## 🛠 Tech Toolbox
+- **Platform fixes:** turned partner escalations into shipped fixes in Shopify checkout, Shopify CLI and Managed Markets by handing the owning team the traced root cause.
+- **Reproductions that settle the question:** build test apps with Shopify CLI, React Router and the GraphQL Admin API to prove whether a bug sits in Shopify or in the app.
+- **Agentic commerce:** build Universal Commerce Protocol (UCP) demo and tutorials, and advised partners at Shopify's first partner Study Hall.
+- **Internal tooling:** build ownership registries (TypeScript, React 19, React Router 7, Prisma, MySQL) where teams claim, update and migrate ownership of API scopes, codebases and apps.
+- **AI-assisted development:** use Claude Code, Cursor and MCP servers to build test apps, trace commits and draft fixes, and review everything they produce.
 
-Here's what I'm proficient in and enjoy using to bring my ideas to life:
+## Tech stack
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)](https://react.dev/)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![AWS](https://img.shields.io/badge/AWS-orange?style=plastic&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![SASS](https://img.shields.io/badge/SASS-hotpink?style=plastic&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 
----
+**Frameworks and libraries**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-## 🚀 Projects That Got Me Hooked on Coding
+**Platforms, cloud and data**
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### **🌍 [Irreal Visuals](https://irrealvisuals.com) - Redefining Web Presence (2024-Present)**
-Working with an international marketing agency, I developed their first flagship site to drive a **66% client acquisition increase**. The site blends performance and aesthetics, built with **React (TypeScript)**, and deployed via **GitHub Actions** for CI/CD.
+**AI tools**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white)
 
-- **Highlight**: Integrated a headless CMS to streamline updates without touching code, allowing easy management for non-technical users.
-- **Challenge**: Balancing highly custom designs with scalability. Each pixel and animation went through multiple iterations to get it just right. 
-- **Learning**: The power of continuous integration when working with design feedback loops and the importance of **WAI accessibility standards**.
+## Selected projects
 
-### **💰 [ShareWize](https://github.com/mubtasimrahman/Capstone-ShareWize) - Expense Sharing App (Capstone Project, 2023-2024)**
-Part of a four-member team building **ShareWize**, an app to manage and track group expenses. The project was a deep dive into the **full stack** (Node.js, React, Redux), but more than that, it was an exercise in **team collaboration** and **agile development**.
+### [Irreal Visuals](https://irrealvisuals.com) · agency website and hybrid CMS
 
-- **Highlight**: Implementing **Google OAuth 2.0** for authentication and using **AWS RDS** to manage financial data securely.
-- **Challenge**: Making sure the app was **intuitive** for non-tech-savvy users. We refined the UX through **user testing** and iterations.
-- **Learning**: The importance of **communication** within teams—regular stand-ups and code reviews kept us on track and aligned.
+*Contract full-stack developer, 2024 · React, TypeScript, GitHub Actions, Google Cloud Functions*
 
-### **🎮 [Game Galaxy](https://mubtasimrahman.github.io/Game-Galaxy/) - E-commerce for Games (2023)**
-An e-commerce platform for game lovers. **Game Galaxy** aggregates prices and details from millions of online games, making it easier for users to compare and purchase. 
+- Built an international marketing agency's first flagship website, projected to lift client acquisition 66%.
+- Designed a hybrid CMS (GUI plus headless API) on GitHub APIs, GitHub Actions and Google Cloud Functions, so non-technical staff publish without touching code; automated builds finish in under 4 minutes.
+- Met WAI accessibility standards and scored 98 on Google Lighthouse, then refined the v1.0 release with feedback from 6 beta testers.
 
-- **Highlight**: **API Integration** with 3 databases, parsing massive amounts of JSON data to deliver real-time results.
-- **Challenge**: Designing the UI to handle large datasets without overwhelming the user. 
-- **Learning**: There’s beauty in the **details**—whether it's making an API call more efficient or tweaking the UI for responsiveness.
+### [ShareWize](https://github.com/mubtasimrahman/Capstone-ShareWize) · expense-sharing app
 
-### **📡 FTP Clone - Learning the Fundamentals of Networking (2023)**
-A deep dive into the basics of networking, this project was all about learning how the internet really works. Built an FTP client-server app using **Python** and the **Sockets API**, transferring text files seamlessly.
+*4-person capstone, 2023–2024 · React, Redux, Node.js, Express.js, AWS*
 
-- **Highlight**: Handling **concurrent connections** with multiple clients in real-time.
-- **Challenge**: Understanding the nuances of **TCP/IP** and how networking protocols handle failures.
-- **Learning**: The core principles of the internet aren’t just theory—they’re the building blocks of modern communication.
+- Lets friends and roommates split bills and track shared expenses as a group.
+- Built 50+ Express.js REST endpoints, a Microsoft SQL Server schema on AWS RDS and Google OAuth 2.0 sign-in.
+- Led bi-weekly stand-ups and code reviews for the team across the full development lifecycle.
 
----
+### [Game Galaxy](https://mubtasimrahman.github.io/Game-Galaxy/) · game discovery and price comparison
 
-## 💡 The Way I Work
+*2023 · TypeScript, React, Bootstrap · [source](https://github.com/mubtasimrahman/Game-Galaxy)*
 
-I code with one philosophy in mind: **clarity over complexity**. Whether it's a simple function or an entire API, I believe in writing code that's **easy to read, easy to debug**, and **easy to maintain**.
+- Combines the RAWG and IsThereAnyDeal APIs to show game details and compare prices across retailers, with a PayPal checkout flow.
+- Returns search results in under 0.5 seconds; GitHub Actions builds and deploys it to GitHub Pages.
 
-I also believe in the power of **iteration**. A project is never truly finished—there's always a new feature to add, a bug to squash, or a UX improvement to make. As a developer, I'm constantly **experimenting**, learning new technologies, and refining my craft.
+### [Socket Programming](https://github.com/mubtasimrahman/Socket-Programming) · TCP file transfer
 
----
+*2023 · Python, sockets API*
 
-## 👨‍🎓 A Little About My Journey
+- A Python client and server that stream a text file over a TCP connection; the server handles each client in turn, then waits for the next one.
 
-I'm currently pursuing a **Bachelor of Applied Sciences in Computer Science** at McMaster University. Here are a few key things I've learned:
+## Certifications and education
 
-- **Algorithmic Thinking**: From data structures to optimization, I've built a strong foundation in problem-solving.
-- **Networking and Security**: Ensuring robust and secure systems is key, and I've taken every opportunity to dive into **information security**.
-- **Operating Systems**: Understanding how the core systems of a computer work is essential to being a well-rounded developer.
+- [Developing Apps for Shopify](https://www.credly.com/badges/d432a3ab-a271-409d-a736-1dbaa910c926/public_url) · Shopify, 2026
+- [Creating Solutions for Shopify Checkout](https://www.credly.com/badges/26955d55-5fdb-4388-ad28-0e50792cf3ed/public_url) · Shopify, 2025
+- Bachelor of Applied Science, Computer Science · McMaster University, 2024
 
----
+## How I work
 
-## 🧐 What’s Next?
+- **Clarity over complexity.** Code should be easy to read, easy to debug and easy to maintain.
+- **Reproduce before fixing.** A small test app that proves the cause beats a long thread of guesses.
+- **Iterate.** A project is never truly finished; there's always a bug to squash or a UX detail to improve.
 
-I’m always looking for **interesting projects** or **collaborations** that push me to grow as a developer. Whether it's contributing to open source, collaborating on a new startup idea, or refining an existing project—I'm game! 
+## Get in touch
 
-Feel free to **reach out** if you'd like to work on something together.
+Happy to talk Shopify, fullstack dev, agentic commerce or developer tooling. Reach me on [LinkedIn](https://www.linkedin.com/in/mubtasimrahman).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubtasimrahman)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white)](https://github.com/mubtasimrahman)
 
 
 ---
